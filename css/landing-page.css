@@ -49,7 +49,8 @@ h6 {
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    font-weight: 200;
+    font-size: 3em;
 }
 
 .intro-divider {
@@ -110,7 +111,7 @@ h6 {
 
 .section-heading-spacer {
     float: left;
-    width: 200px;
+    width: 40rem;
     border-top: 3px solid #e7e7e7;
 }
 
